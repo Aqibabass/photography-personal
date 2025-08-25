@@ -15,7 +15,7 @@ function NavBar() {
       <div className='py-5 px-4 lg:px-8 flex justify-between'>
         <div>
           <p className='hover:text-gray-500 transition duration-300 hover:scale-105'>
-            <Link href='/'>Dylan Rotich</Link>
+            <Link href='/'>Adil Abass</Link>
           </p>
         </div>
 

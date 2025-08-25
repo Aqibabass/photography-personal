@@ -1,4 +1,4 @@
-# Photography Portfolio - Dylan Rotich
+# Photography Portfolio - Adil Abass
 
 ## Description
 
@@ -9,7 +9,7 @@ I built this project to showcase my artwork as a photographer and further my ski
 - Demonstrates ability to create portfolio website for clients
 
 ## Usage
-Visit [Dylan Rotich | Photography Portfolio](https://dylanrotich-photography.vercel.app) to view photo collections and read the Blog.
+Visit [Adil Abass | Photography Portfolio](https://dylanrotich-photography.vercel.app) to view photo collections and read the Blog.
 
 ## Features
 - Sliding Image Carousel
@@ -32,5 +32,5 @@ Visit [Dylan Rotich | Photography Portfolio](https://dylanrotich-photography.ver
 ## License
 MIT License
 
-Copyright (c) 2023 Dylan Rotich
+Copyright (c) 2023 Adil Abass
 see LICENSE for more information
